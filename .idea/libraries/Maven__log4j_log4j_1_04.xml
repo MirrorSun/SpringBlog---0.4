@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Maven: log4j:log4j:1.04">
+    <CLASSES />
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/log4j/log4j/1.04/log4j-1.04-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/log4j/log4j/1.04/log4j-1.04-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
